@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__TalkToFigma__get_selection",
+      "mcp__TalkToFigma__join_channel",
+      "mcp__TalkToFigma__get_document_info",
+      "mcp__TalkToFigma__read_my_design"
+    ]
+  },
+  "enableAllProjectMcpServers": true,
+  "enabledMcpjsonServers": [
+    "TalkToFigma"
+  ]
+}
