@@ -1,0 +1,1 @@
+- [Tailwind preference](memory/feedback_tailwind_preference.md) — use Tailwind classes over inline styles
